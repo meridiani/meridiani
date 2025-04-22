@@ -1,9 +1,5 @@
-👋 Hello my name is Maria Duffy
+DevOps Engineer using terraform to wrangle AWS resources mainly.
 
-🏡 I live in Nottingham at the moment but I've lived all over
-
-🚗 I'm a Senior DevOps Engineer at the Driver & Vehicle Standards Agency
-
-👩‍💻 Most days I can be found wrangling cloud infra with terraform and some hacky python
-
-🫖 I'm fuelled by tea and spicy food
+> For small creatues such as we,
+> > the vastness is only bearable through love.
+Carl Sagan
